@@ -1,0 +1,92 @@
+﻿@using entitylayer.Concrete
+@model List<service>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<!-- Light table -->
+@*<div class="table-responsive">
+    <div class="table-responsive">
+        <table class="table align-items-center table-flush">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col" class="sort" data-sort="name">Hizmet Adı</th>
+                    <th scope="col" class="sort" data-sort="budget">Sil</th>
+                    <th scope="col" class="sort" data-sort="status">Düzenle</th>
+
+                </tr>
+            </thead>
+            <tbody class="list">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">
+                            <div class="media align-items-center">
+                                <a href="#" class="avatar rounded-circle mr-3">
+                                    <img alt="Image placeholder" src="@item.ImageUrl">
+                                </a>
+                                <div class="media-body">
+                                    <span class="name mb-0 text-sm">@item.Title</span>
+                                </div>
+                            </div>
+                        </th>
+                        <td>
+                            <a href="/Service/DeleteService/@item.ServiceID" class="btn btn-primary">Sil</a>
+                        </td>
+                        <td>
+                            <a href="/Service/EditService/@item.ServiceID" class="btn btn-warning">Düzenle</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <a href="/Service/AddService/" class="btn btn-primary">Yeni Hizmet Ekle</a>
+</div>*@
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Deneyim Listesi</h4>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col" class="sort" data-sort="name">Hizmet Adı</th>
+                            <th scope="col" class="sort" data-sort="budget">Sil</th>
+                            <th scope="col" class="sort" data-sort="status">Düzenle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th scope="row">
+                                    <div class="media align-items-center">
+                                        <a href="#" class="avatar rounded-circle mr-3">
+                                            <img alt="Image placeholder" src="@item.ImageUrl" style="background:white">
+                                        </a>
+                                        <div class="media-body">
+                                            <span class="name mb-0 text-sm">@item.Title</span>
+                                        </div>
+                                    </div>
+                                </th>
+                                <td>
+                                    <a href="/Service/DeleteService/@item.ServiceID" class="btn btn-outline-danger">Sil</a>
+                                </td>
+                                <td>
+                                    <a href="/Service/EditService/@item.ServiceID" class="btn btn-outline-warning">Düzenle</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <a href="/Service/AddService/" class="btn btn-outline-success">Yeni Deneyim Ekle</a>
+        </div>
+    </div>
+
+</div>
+
+

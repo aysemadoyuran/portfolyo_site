@@ -1,0 +1,131 @@
+﻿@using entitylayer.Concrete
+@model List<portfolio>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+@*<div class="col-md-12">
+    <div class="row">
+        <div>
+            <div class="card bg-default shadow">
+                <div class="card-header bg-transparent border-0">
+                    <h3 class="text-white mb-0">Proje Listesi</h3>
+                </div>
+                <div class="table-responsive">
+                    <table class="table align-items-center table-dark table-flush">
+                        <thead class="thead-dark">
+
+                            <tr>
+                                <th scope="col" class="sort" data-sort="name">Proje ID</th>
+                                <th scope="col" class="sort" data-sort="name">Proje Adı</th>
+                                <th scope="col" class="sort" data-sort="budget">Proje Linki</th>
+                                <th scope="col" class="sort" data-sort="status">Proje Görselleri</th>
+                                <th></th>
+                                <th></th>
+
+                            </tr>
+
+
+                        </thead>
+                        <tbody class="list">
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>@item.portfolioID</td>
+                                    <td>
+                                        @item.Name
+                                    </td>
+                                    <td>
+                                        <span class="badge badge-dot mr-4">
+                                            <i class="bg-warning"></i>
+                                            <span class="status">@item.ProjectUrl</span>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <div class="avatar-group">
+                                            <a href="#" class="avatar avatar-sm rounded-circle" data-toggle="tooltip" data-original-title="Ryan Tompson">
+                                                <img alt="Image placeholder" src="@item.ImageUrl">
+                                            </a>
+                                            <a href="#" class="avatar avatar-sm rounded-circle" data-toggle="tooltip" data-original-title="Romina Hadid">
+                                                <img alt="Image placeholder" src="@item.ImageUrl2">
+                                            </a>
+
+                                        </div>
+                                    </td>
+                                    <td><a href="/Portfolio/DeletePortfolio/@item.portfolioID" class="btn btn-outline-warning" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a></td>
+                                    <td><a href="/Portfolio/EditPortfolio/@item.portfolioID" class="btn btn-outline-info">Düzenle</a></td>
+
+
+
+                                </tr>
+                            }
+
+
+                        </tbody>
+                    </table>
+                    <a href="/Portfolio/AddPortfolio/" class="btn btn-primary">Yeni Proje Ekle</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>*@
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Projeler Listesi</h4>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col" class="sort" data-sort="name">Proje ID</th>
+                            <th scope="col" class="sort" data-sort="name">Proje Adı</th>
+                            <th scope="col" class="sort" data-sort="budget">Proje Linki</th>
+                            <th scope="col" class="sort" data-sort="status">Proje Görselleri</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+
+                                <td>@item.portfolioID</td>
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    <span class="badge badge-dot mr-4">
+                                        <i class="bg-warning"></i>
+                                        <span class="status">@item.ProjectUrl</span>
+                                    </span>
+                                </td>
+                                <td>
+                                    <div class="avatar-group">
+                                        <a href="#" class="avatar avatar-sm rounded-circle" data-toggle="tooltip" data-original-title="Ryan Tompson">
+                                            <img alt="Image placeholder" src="@item.ImageUrl">
+                                        </a>
+                                        <a href="#" class="avatar avatar-sm rounded-circle" data-toggle="tooltip" data-original-title="Romina Hadid">
+                                            <img alt="Image placeholder" src="@item.ImageUrl2">
+                                        </a>
+
+                                    </div>
+                                </td>
+                                <td><a href="/Portfolio/DeletePortfolio/@item.portfolioID" class="btn btn-outline-warning" onclick="return confirm('Silmek istediğinize emin misiniz?');">Sil</a></td>
+                                <td><a href="/Portfolio/EditPortfolio/@item.portfolioID" class="btn btn-outline-info">Düzenle</a></td>
+
+
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <a href="/Skill/AddSkill/" class="btn btn-outline-success">Yeni Proje Ekle</a>
+        </div>
+    </div>
+
+@*</div>*@
+

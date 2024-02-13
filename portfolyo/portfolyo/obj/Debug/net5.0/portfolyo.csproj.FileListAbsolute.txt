@@ -1,0 +1,606 @@
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.exe
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.deps.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.dev.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ref\portfolyo.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.AssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfoInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CoreCompileInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.Manifest.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.xml
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\scopedcss\bundle\portfolyo.styles.css
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.input.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.output.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorCoreGenerate.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.Views.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CopyComplete
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\ref\portfolyo.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.genruntimeconfig.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\HeaderPartial.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\NavBarPartial.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\PortfolioList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ExprerienceList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\SendMessage.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\NavigationPartial.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\EditSkill.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\AddExprerience.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\EditExprerience.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\AddPortfolio.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\EditPortfolio.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureStatistic\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5Projects\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\statistics\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\update\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\MessageList\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\todolist\Default.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\WriterLayout.cshtml.g.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.Development.json
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.json
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.exe
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.deps.json
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.json
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.dev.json
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ref\portfolyo.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Humanizer.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.AssemblyReference.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfoInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.Manifest.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.xml
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\scopedcss\bundle\portfolyo.styles.css
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.input.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.output.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorCoreGenerate.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\NavigationPartial.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\HeaderPartial.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\NavBarPartial.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\SendMessage.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\AddExprerience.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\EditExprerience.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\AddPortfolio.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\EditPortfolio.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ExprerienceList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureStatistic\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5Projects\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\MessageList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\PortfolioList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\statistics\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\todolist\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\update\Default.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\WriterLayout.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\EditSkill.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cache
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.Views.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CopyComplete
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\ref\portfolyo.dll
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.pdb
+E:\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.genruntimeconfig.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.Development.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\appsettings.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.exe
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.deps.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.runtimeconfig.dev.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ref\portfolyo.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\portfolyo.Views.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Humanizer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\businesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\dataaccesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\bin\Debug\net5.0\entitylayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.AssemblyReference.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.GeneratedMSBuildEditorConfig.editorconfig
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfoInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.AssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CoreCompileInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.MvcApplicationPartsAssemblyInfo.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorAssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.Manifest.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\staticwebassets\portfolyo.StaticWebAssets.xml
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\scopedcss\bundle\portfolyo.styles.css
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.input.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.TagHelpers.output.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorCoreGenerate.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\NavigationPartial.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialNavBar.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\HeaderPartial.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\NavBarPartial.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\DefaultController1\SendMessage.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\AddExprerience.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\EditExprerience.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Exprerience\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\AddPortfolio.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\EditPortfolio.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Portfolio\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\AddService.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\EditService.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Service\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactDetails\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ExprerienceList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\FeatureStatistic\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\Last5Projects\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\MessageList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\PortfolioList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\statistics\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\todolist\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Components\update\Default.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\WriterLayout.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\EditSkill.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.RazorTargetAssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.Views.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.csproj.CopyComplete
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\ref\portfolyo.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\portfolyo\obj\Debug\net5.0\portfolyo.genruntimeconfig.cache

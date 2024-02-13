@@ -1,0 +1,54 @@
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.deps.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\ref\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.AssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfoInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CoreCompileInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\ref\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.dev.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CopyComplete
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.genruntimeconfig.cache
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.deps.json
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.json
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.dev.json
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\ref\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.AssemblyReference.cache
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfoInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CopyComplete
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\ref\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.genruntimeconfig.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.deps.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.runtimeconfig.dev.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\ref\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\bin\Debug\net5.0\entitylayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.AssemblyReference.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfoInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.AssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CoreCompileInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.csproj.CopyComplete
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\ref\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\dataaccesslayer\obj\Debug\net5.0\dataaccesslayer.genruntimeconfig.cache

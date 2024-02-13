@@ -1,0 +1,45 @@
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.deps.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.dev.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\ref\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.AssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfoInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\ref\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.genruntimeconfig.cache
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.deps.json
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.json
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.dev.json
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\ref\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.AssemblyReference.cache
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfoInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\ref\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.genruntimeconfig.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.deps.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.runtimeconfig.dev.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\ref\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\bin\Debug\net5.0\entitylayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.AssemblyReference.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfoInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.AssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.csproj.CoreCompileInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\ref\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\entitylayer\obj\Debug\net5.0\entitylayer.genruntimeconfig.cache

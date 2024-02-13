@@ -1,0 +1,60 @@
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.deps.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.dev.json
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\ref\businesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.AssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfoInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CopyComplete
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\ref\businesslayer.dll
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.pdb
+C:\Users\Aysema Doyuran\Desktop\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.genruntimeconfig.cache
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.deps.json
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.json
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.dev.json
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\ref\businesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.AssemblyReference.cache
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfoInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfo.cs
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CopyComplete
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\ref\businesslayer.dll
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.pdb
+E:\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.genruntimeconfig.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.deps.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.runtimeconfig.dev.json
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\ref\businesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\businesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\dataaccesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\bin\Debug\net5.0\entitylayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.AssemblyReference.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfoInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.AssemblyInfo.cs
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CoreCompileInputs.cache
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.csproj.CopyComplete
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\ref\businesslayer.dll
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.pdb
+D:\hdd\Yeni klasör (4)\web\portfolyo\businesslayer\obj\Debug\net5.0\businesslayer.genruntimeconfig.cache
