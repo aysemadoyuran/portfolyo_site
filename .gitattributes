@@ -8,4 +8,6 @@
 
 *.js linguist-detectable=false
 
+*.css linguist-detectable=false
+
 *.asp.net linguist-detectable=true
