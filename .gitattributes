@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.csharp linguist-detectable=true
+
+*.scss linguist-detectable=false
+
+*.asp.netcore linguist-detectable=true
+
+*.html linguist-detectable=false
+
+*.xml linguist-detectable=false
