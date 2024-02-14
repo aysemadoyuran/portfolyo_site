@@ -4,7 +4,7 @@
 
 *.scss linguist-detectable=false
 
-*.asp.netcore linguist-detectable=true
+*.html linguist-detectable=false
 
 *.js linguist-detectable=false
 
